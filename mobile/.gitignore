@@ -1,0 +1,17 @@
+strings.xml
+*.json
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/mobile/build
+*.apk
+*.ap_
+*.p12
+/.idea
+/gradle
+/screenshots
+/docs
+/captures
